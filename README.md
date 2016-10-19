@@ -18,11 +18,14 @@ Titling
 
 ------------------
 
-Objetivo: Realizar un museo, videojuego y animación con tema de alimentación, para enseñar cómo comer saludablemente y distintos platillos alrededordel mundo.  
+Objetivo: Realizar un museo, videojuego y animación con tema de alimentación, para enseñar cómo comer saludablemente y distintos platillos alrededor del mundo.  
 
 Público: Niños de 8 a 15 años  
 
 Palabras clave: alimentación, diversión, salud.  
 
-Estilo visual: Art pop  
+Universo creativo: Art pop / estilo de Craig McCracken  
 
+![Universo creativo] (uni-creat.jpg)
+
+[Figma] (https://www.figma.com/file/NUzkAdcb2JHsZNWkinJ0kZR7/Maquetacion?node-id=11%3A7)
