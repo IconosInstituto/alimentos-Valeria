@@ -1,29 +1,28 @@
-# Alimentos-Valeria
-Proyecto integrador sobre la clase 1 de web en la materia de CSS
+# Food n Fun
+Proyecto integrador
 
-##Alimentación  
+##Tema: Alimentación  
 
-Proyecto que abarcará
+Activos:  
+Logotipo  
+Cartel  
+Espectacular  
+Infografía  
+Diseño de museo  
+Creación de videojuego  
+Infografía animada  
+Invitación  
+Postal sonora   
+Sitio web  
+Titling  
 
--Logotipo 
+------------------
 
--Cartel 
+Objetivo: Realizar un museo, videojuego y animación con tema de alimentación, para enseñar cómo comer saludablemente y distintos platillos alrededordel mundo.  
 
--Espectacular 
+Público: Niños de 8 a 15 años  
 
--Infografía 
+Palabras clave: alimentación, diversión, salud.  
 
--Diseño de museo 
-
--Creación de videojuego 
-
--Infografía animada
-
--Invitación 
-
--Postal sonora 
-
--Sitio web 
-
--Titling
+Estilo visual: Art pop  
 
