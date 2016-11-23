@@ -29,3 +29,15 @@ Universo creativo: Art pop / estilo de Craig McCracken
 ![Universo creativo] (uni-creat.jpg)
 
 Maquetación: [Figma] (https://www.figma.com/file/NUzkAdcb2JHsZNWkinJ0kZR7/Maquetacion?node-id=11%3A7)
+
+Logotipo
+
+![Logotipo] (tenedor_logo.png)
+
+Infografía
+
+![Info] (infografia-val-01.jpg)
+
+Personaje principal: Lottie
+
+![Lottie] (lottie-color-02.png)
