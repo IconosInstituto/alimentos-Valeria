@@ -127,7 +127,7 @@ section.boton .caract .fa{
 section.conte1{
     background: #F28919;
     color: #fff;
-    height: 100px;
+    height: 60%;
     padding: 60px;
     box-sizing: border-box;
     text-align: center;
@@ -137,8 +137,8 @@ section.conte1{
 section.video{
     background: #F28919;
     color: #fff;
-    height: 400px;
-    padding: 100px;
+    height: 30%;
+    padding: 0%;
     box-sizing: border-box;
     text-align: center;
     }
@@ -146,7 +146,7 @@ section.video{
 section.conte2{
     background: #F28919;
     color: #fff;
-    height: 290px;
+    height: 60%;
     padding: 60px;
     box-sizing: border-box;
     text-align: center;
@@ -157,8 +157,8 @@ section.conte2{
 section.videos2{
     background: #F28919;
     color: #fff;
-    height: 400px;
-    padding: 50px;
+    height: 30%;
+    padding: 0%;
     box-sizing: border-box;
     text-align: center;
     }
@@ -166,8 +166,8 @@ section.videos2{
 section.videos3{
     background: #F28919;
     color: #fff;
-    height: 400px;
-    padding: 50px;
+    height: 30%;
+    padding: 0%;
     box-sizing: border-box;
     text-align: center;
     }
@@ -175,12 +175,15 @@ section.videos3{
 section.lottie{
     box-sizing: border-box;
     padding: 5%;
-    height: 60%;
+    height: 40%;
     width: 100%;
     text-align: center;
     font-size: 1.6em;
 }
 
+section.lottie img{
+max-width: 100%;
+}
 
 
 /* ESTADO */
@@ -231,7 +234,7 @@ a:hover{
 footer{
 text-align: center;
     margin: auto;
-    height: 40px;
+    height: 40%;
     background: #1970F2;
     width: 100%;
     
