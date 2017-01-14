@@ -7,10 +7,9 @@ body{
     background:#F28919; 
     font-family: 'Montserrat', sans-serif
 }
-
+/*Estilos header*/
 header.hero{
     background: #F28919;
-    
     color: #fff;
     height: 165px;
     padding: 10px;
@@ -18,80 +17,35 @@ header.hero{
     text-align: center;
     background: #fff;
 }
-
-header.hero h1{
-   
+/*Estilos de menu*/
+.caract {
+    text-align: center;
+    color: #666;
+    margin-top: 60px;
+    height: 150px;
 }
-
-/*Estilo general*/
-
-/*header.hero a{
-    display: block;
-    width: 200px;
-    height: 60px;
-    box-sizing: border-box;
-    border: 2px solid #fff;
-    margin: 80px auto;
-    color: #fff;
-    font-family: sans-serif;
-    font-size: 1.5em;
-    text-decoration: none;
-    line-height: 2.5em;
-}
-
-header.hero .fa{
+    
+.caract .fa{
     font-size: 2em;
-    display: block;
+    color: #fff;
+    margin: 10px;
+    width: 70px;
+    height: 70px;
+    border: 6px solid #1970F2;
+    line-height: 2.1em;
+    border-radius: 50%;
+    background: #139;
 }
-
-header.hero a:hover{
-    background: #fff;
-    color: #F28919;
-}*/
     
-    
-    
-    .caract {
-      text-align: center;
-      color: #666;
-        margin-top: 60px;
-        
-        
-        height: 150px;
-    }
-    
-    .caract .fa{
-      font-size: 2em;
-      color: #fff;
-        margin: 10px;
-        width: 70px;
-        height: 70px;
-        border: 6px solid #1970F2;
-        line-height: 2.1em;
-        border-radius: 50%;
-        background: #139;
-    }
-    
-    .caract .titulo{
-        font-size: 1.5em;
-    }
-    
-    .caract .descripcion{
-        color: #888;
-        font-size: 1.2em;
-        margin: 10px;    
-    }
-    
-    
-    
-    /*---CARACTERISTICAS---*/
-    
-    .caracteristicas {
-        padding: 80px. 0;
-        overflow: hidden;
-    }
-    
-    
+.caract .titulo{
+    font-size: 1.5em;
+}
+ 
+.caracteristicas {
+    padding: 80px. 0;
+    overflow: hidden;
+}
+  
 .caracteristicas .caract{
     width: 25%;
     float: left;
@@ -102,28 +56,12 @@ header.hero a:hover{
     color: aliceblue;
     border-radius: 15px;
 }
+/*termina estilos de menu*/
 
-
-/*---BOTON---*/
-
-section.boton{
-    background: #F28919;
-    padding: 80px, 0;
+/*Estilos de contenido*/
+.contenido{
+    padding: 0 20%;
 }
-
-section.boton .caract .titulo{
-    color: #fff;
-    font-size: 2em;
-}
-
-section.boton .caract .fa{
-    background: #fff;
-    color: #1970F2;
-}
-
-
-
-
 section.conte1{
     background: #F28919;
     color: #fff;
@@ -154,51 +92,46 @@ section.conte2{
     margin-bottom: 10px;
 }
 
-section.videos2{
-    background: #F28919;
-    color: #fff;
-    height: 30%;
-    padding: 0%;
-    box-sizing: border-box;
-    text-align: center;
-    }
+.conte2>p{
+    padding: 0 20%;
+}
 
-section.videos3{
-    background: #F28919;
-    color: #fff;
-    height: 30%;
-    padding: 0%;
-    box-sizing: border-box;
-    text-align: center;
-    }
-
-section.lottie{
+/*Estilos de galeria*/
+section.personaje{
     box-sizing: border-box;
     padding: 5%;
     height: 40%;
-    width: 100%;
+    width: 49%;
     text-align: center;
     font-size: 1.6em;
+    display: inline-block;
 }
 
-section.lottie img{
-max-width: 100%;
+section.personaje img{
+    max-width: 100%;
 }
 
-section.guibot{
-    box-sizing: border-box;
-    padding: 5%;
-    height: 40%;
-    width: 100%;
+
+/*Enlaces*/
+a{
+    text-decoration: none;
+    color: #249;
+}
+a:hover{
+    color: #fff;
+}
+
+/*footer*/
+
+footer{
     text-align: center;
-    font-size: 1.6em;
+    margin: 0 auto;
+    height: 20px;
+    background: #1970F2;
+    width: 100%;
 }
 
-section.guibot img{
-max-width: 100%;
-}
-
-/* ESTADO */
+/* Responsive */
 
 /*Tablets*/
 
@@ -215,12 +148,6 @@ max-width: 100%;
     header.hero h1 .fa{
         font-size: 2em;
     }
-    
-   /* header.hero a{
-        background: #fff;
-        color: #000;
-    }*/
-    
     .caracteristicas .caract{
         width: 50%;
     }
@@ -234,20 +161,3 @@ max-width: 100%;
     }
 }
 
-
-a{
-    text-decoration: none;
-    color: #000;
-}
-a:hover{
-    color: #fff;
-}
-
-footer{
-text-align: center;
-    margin: auto;
-    height: 40%;
-    background: #1970F2;
-    width: 100%;
-    
-}
